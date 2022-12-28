@@ -4,7 +4,7 @@
   "description": "## Vanilla JavaScript + Sass + Babel and more",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
