@@ -1,0 +1,24 @@
+{
+  "name": "webpack-starter-templates",
+  "version": "1.0.0",
+  "description": "## Vanilla JavaScript + Sass + Babel and more",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagnik004/webpack-starter-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagnik004/webpack-starter-templates/issues"
+  },
+  "homepage": "https://github.com/Sagnik004/webpack-starter-templates#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
